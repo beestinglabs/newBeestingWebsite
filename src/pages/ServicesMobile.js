@@ -3,12 +3,14 @@ import "../styles/Services.css";
 import { Link } from "react-router-dom";
 import Duckyverb from "../assets/projects/Duckyverb.png"
 import Djaminn from "../assets/projects/Djaminn.png"
+import Xvox from "../assets/projects/Xvox.png"
 
 const ServicesMobile = () => {
 return (
 <div className="services-container-mobile">
     <h1>Services</h1>
-    <h3>“ Write a quote here by one of your clients or yourselves summarising the core values of Beesting Labs”</h3>
+    <h3>"Beesting provided the critical technical expertise, cutting-edge development and were incredibly reliable and responsive partners throughout the entire project."</h3>
+    <h3>The Nuro Audio Product Team</h3>
     <p>As well as producing our own software, we also provide services and systems for your software and end to end software development.
         <br/>
         <br/>
@@ -21,12 +23,12 @@ return (
     <div className="title-row">
         <h3 className="title-object">Previous Projects</h3>
     </div>
-    {/* <div className="serviceBox-mobile">
-        <img src={projectImage1} alt="Xvox"/>
+    <div className="serviceBox-mobile">
+        <img src={Xvox} alt="Xvox"/>
         <h3>Xvox</h3>
         <p>Working closely with the team at Nuro Audio, we created and built out DSP algorithms and the user interface according to tight specifications, to deliver a top of the range vocal effect plugin for mixing.</p> 
-        <Link to="https://www.google.com">Learn More</Link>
-    </div> */}
+        <Link to="https://nuroaudio.com/">Learn More</Link>
+    </div>
     <div className="serviceBox-mobile">
         <img src={Duckyverb} alt="Duckyverb"/>
         <h3>Duckyverb</h3>
