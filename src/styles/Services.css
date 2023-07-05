@@ -87,6 +87,18 @@ img
     justify-content: space-between;
 }
 
+.serviceBox img
+{
+    border-radius: 25px;
+    width: 100%;
+}
+
+.serviceBox p
+{
+    height: 70%;
+}
+
+
 .serviceBox-mobile
 {
     padding-bottom: 20%;
@@ -95,7 +107,7 @@ img
     justify-content: space-between;
 }
 
-.serviceBox img
+.serviceBox-mobile img
 {
     border-radius: 25px;
 }

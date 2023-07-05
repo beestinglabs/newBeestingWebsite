@@ -4,6 +4,7 @@ import { Link } from "react-router-dom";
 import Duckyverb from "../assets/projects/Duckyverb.png"
 import Djaminn from "../assets/projects/Djaminn.png"
 import Xvox from "../assets/projects/Xvox.png"
+import Sistema from "../assets/projects/Sistema.png"
 
 const ServicesDesktop = () => {
 return (
@@ -48,10 +49,16 @@ return (
             </div>
         <div className="flex-box">
             <div className="service-row">
+            <div className="serviceBox">
+                    <img src={Sistema} alt="Sistema"/>
+                        <h3>Sistema</h3>
+                        <p>Sistema by guk.ai is an AI-powered plugin instrument that helps users easily create pro-quality sounds for their music. We helped the team at Guk.ai to rebuild their wavetable synthesiser at the core of the instrument.</p>
+                        <Link to="https://www.guk.ai">Learn More</Link>
+                </div>
                 <div className="serviceBox">
                     <img src={Duckyverb} alt="Duckyverb"/>
                         <h3>Duckyverb</h3>
-                        <p>Duckyverb combines reverb and ducking into one process.</p>
+                        <p>Duckyverb combines a high quality revberb plugin, a ducking compressor and a parametric EQ into one plugin, compressing an entire effect chain into one, easy to use process.</p>
                         <Link to="https://www.parametricaudio.io">Learn More</Link>
                 </div>
                 <div className="serviceBox">
