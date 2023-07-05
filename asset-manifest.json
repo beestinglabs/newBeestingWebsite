@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.42055e53.css",
-    "main.js": "/static/js/main.d3a4061d.js",
+    "main.css": "/static/css/main.a95f701a.css",
+    "main.js": "/static/js/main.ef896a43.js",
     "static/js/787.0fc642ae.chunk.js": "/static/js/787.0fc642ae.chunk.js",
     "static/media/backgroundMobile.gif": "/static/media/backgroundMobile.e732e4e8325aadba1c4e.gif",
     "static/media/background.gif": "/static/media/background.0d320826b2f1aed634d6.gif",
@@ -14,17 +14,18 @@
     "static/media/Xvox.png": "/static/media/Xvox.9b784e57d690676735e8.png",
     "static/media/Djaminn.png": "/static/media/Djaminn.3a02f3429e9e063af2b1.png",
     "static/media/norah.png": "/static/media/norah.936fadb880c4e93ec127.png",
+    "static/media/Sistema.png": "/static/media/Sistema.7f964bdf3f8b72df5827.png",
     "static/media/logo.png": "/static/media/logo.17a31214019729b24997.png",
     "static/media/ed.png": "/static/media/ed.d33d156dcac827c6e8dd.png",
     "static/media/arthur.png": "/static/media/arthur.0ee5052e045ed8c6f87c.png",
     "static/media/Project_Images_PulsarSynth.png": "/static/media/Project_Images_PulsarSynth.1ca989cf50432d665234.png",
     "index.html": "/index.html",
-    "main.42055e53.css.map": "/static/css/main.42055e53.css.map",
-    "main.d3a4061d.js.map": "/static/js/main.d3a4061d.js.map",
+    "main.a95f701a.css.map": "/static/css/main.a95f701a.css.map",
+    "main.ef896a43.js.map": "/static/js/main.ef896a43.js.map",
     "787.0fc642ae.chunk.js.map": "/static/js/787.0fc642ae.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.42055e53.css",
-    "static/js/main.d3a4061d.js"
+    "static/css/main.a95f701a.css",
+    "static/js/main.ef896a43.js"
   ]
 }
